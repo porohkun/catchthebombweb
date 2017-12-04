@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "catchthebombweb.data.unityweb",
+"asmCodeUrl": "catchthebombweb.asm.code.unityweb",
+"asmMemoryUrl": "catchthebombweb.asm.memory.unityweb",
+"asmFrameworkUrl": "catchthebombweb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
